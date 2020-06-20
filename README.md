@@ -7,6 +7,7 @@
 - 本科/沈阳工业大学/计算机科学与技术系/在读大二/2018-至今
 - Github: https://github.com/Maserhe
 - Email: 982289931@qq.com
+- BLog: https://maserhe.top
 - QQ:982289931
 # 技能清单
 
