@@ -13,12 +13,16 @@
 
 ------------------------------
 
-- 语言: Java/c++/python
+- 语言: Java / C++
+- Cache：Redis / memcache
 - 数据库相关：MySQL
-- 前端：html/css/JavaScript
-- 版本管理：git
+- 前端：html / css / JavaScript
+- 框架：SSM
+- 版本管理：Git / SVN
+- 其他：Ajax / XML / OOP / WebSocket / Python / 敏捷项目开发 / 设计模式 / 正则表达式 / 性能优化及安全常识 / 内部标准编程风格
 - 以Linux为日常操作系统
 - 擅长独立或者合作快速完成整个项目，并保持高提前上线率、低BUG率、低事故率
+
 
 # 工作经历
 
